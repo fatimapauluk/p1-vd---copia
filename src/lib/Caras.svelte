@@ -158,12 +158,13 @@ let imagesdos = [
       <div class="chart-wrapper">
         
         <iframe src='https://flo.uri.sh/visualisation/19289560/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'>
-          
+        </div>
         
+        <div class="chart-wrapper">
           <iframe src='https://flo.uri.sh/visualisation/19355491/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'>
           </iframe>
-         
-      </div>
+        </div>
+   
   
       <div class="chart-wrapper">
         <div class="flourish-embed flourish-chart" data-src="visualisation/19355491"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/19355491/thumbnail" width="100%" alt="chart visualization" /></noscript></div>      </div>
