@@ -59,7 +59,7 @@ let imagesdos = [
 
   </script>
   
-
+<svelt:head>
 <!-- Título, subtítulo y bajada -->
 <h1 class="titulo">Chau Nieve, <br>hola Sol!</h1>
 <h2 class="subtitulo">Con la nieve en retirada, los viajeros cambian los abrigos por trajes de baño. Los destinos de verano ganan terreno mientras los amantes del frío se quedan con ganas de más.</h2>
@@ -153,6 +153,7 @@ let imagesdos = [
 
 
 <main>
+  
   <!-- Agregar gráficos de Flourish con embed -->
   <div class="chart-container">
     <div class="chart-wrapper">
@@ -211,6 +212,8 @@ let imagesdos = [
 </footer>
 
 </main>
+
+</svelt:head>
 
 <style>
 
