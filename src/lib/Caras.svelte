@@ -160,8 +160,8 @@ let imagesdos = [
       <div class="flourish-embed flourish-chart" data-src="visualisation/19289560">
         <svelt:head>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
-      </svelt:head>
         <noscript><img src="https://public.flourish.studio/visualisation/19289560/thumbnail" width="100%" alt="chart visualization" /></noscript>
+      </svelt:head>
       </div>
     </div>
 
@@ -169,8 +169,9 @@ let imagesdos = [
       <div class="flourish-embed flourish-chart" data-src="visualisation/19355491">
         <svelt:head>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
-      </svelt:head>
+      
         <noscript><img src="https://public.flourish.studio/visualisation/19355491/thumbnail" width="100%" alt="chart visualization" /></noscript>
+      </svelt:head>
       </div>
     </div>
 
@@ -178,8 +179,9 @@ let imagesdos = [
       <div class="flourish-embed flourish-pictogram" data-src="visualisation/19356462">
         <svelt:head>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
-      </svelt:head>
+      
         <noscript><img src="https://public.flourish.studio/visualisation/19356462/thumbnail" width="100%" alt="pictogram visualization" /></noscript>
+      </svelt:head>
       </div>
     </div>
   </div>
