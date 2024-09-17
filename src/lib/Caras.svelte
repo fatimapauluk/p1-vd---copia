@@ -59,7 +59,7 @@ let imagesdos = [
 
   </script>
   
-<svelt:head>
+
 <!-- Título, subtítulo y bajada -->
 <h1 class="titulo">Chau Nieve, <br>hola Sol!</h1>
 <h2 class="subtitulo">Con la nieve en retirada, los viajeros cambian los abrigos por trajes de baño. Los destinos de verano ganan terreno mientras los amantes del frío se quedan con ganas de más.</h2>
@@ -158,21 +158,27 @@ let imagesdos = [
   <div class="chart-container">
     <div class="chart-wrapper">
       <div class="flourish-embed flourish-chart" data-src="visualisation/19289560">
+        <svelt:head>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
+      </svelt:head>
         <noscript><img src="https://public.flourish.studio/visualisation/19289560/thumbnail" width="100%" alt="chart visualization" /></noscript>
       </div>
     </div>
 
     <div class="chart-wrapper">
       <div class="flourish-embed flourish-chart" data-src="visualisation/19355491">
+        <svelt:head>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
+      </svelt:head>
         <noscript><img src="https://public.flourish.studio/visualisation/19355491/thumbnail" width="100%" alt="chart visualization" /></noscript>
       </div>
     </div>
 
     <div class="chart-wrapper full-width">
       <div class="flourish-embed flourish-pictogram" data-src="visualisation/19356462">
+        <svelt:head>
         <script src="https://public.flourish.studio/resources/embed.js"></script>
+      </svelt:head>
         <noscript><img src="https://public.flourish.studio/visualisation/19356462/thumbnail" width="100%" alt="pictogram visualization" /></noscript>
       </div>
     </div>
@@ -213,7 +219,7 @@ let imagesdos = [
 
 </main>
 
-</svelt:head>
+
 
 <style>
 
